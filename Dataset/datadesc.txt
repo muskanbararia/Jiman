@@ -1,0 +1,84 @@
+Column Names from one.pdf::
+Water	Protein	Ash	Fat	Fibre(total)	Fibre(Insoluble)	Fibre(Soluble)	Carbohydrates	Energy(Till Milk)
+Water	Protein	Ash	Fat	Energy
+
+Unit::g=>Water	Protein	Ash	Fat	Fibre(total)	Fibre(Insoluble)	Fibre(Soluble)	Carbohydrates
+KJ=>Energy
+
+Column Names from two.pdf::
+Thiamin(B1)	Riboflavin	Niacin(B3)	Pantothenic Acid(B5)	B6	Biotin(B7)	Total Folates(B9)	Total Ascorbic Acid(C)(Till Milk)
+Thiamin(B1)	Riboflavin	Niacin(B3)	Pantothenic Acid(B5)	B6	Biotin(B7)	Total Folates(B9)(Till Poultry)
+Thiamin(B1)	Riboflavin	Niacin(B3)	Pantothenic Acid(B5)	B6	Total Folates(B9)
+
+Unit::mg=>Thiamin(B1)	Riboflavin	Niacin(B3)	Pantothenic Acid(B5)	B6	Total Ascorbic Acid(C)
+micro g=>Biotin(B7)	Total Folates(B9)
+
+Column Names from three.pdf::
+Ergocalciferol(D2)	Tocopherols Alpha	Tocopherols Beta	Tocopherols Gamma	Tocopherols Delta	Tocotrienols Alpha	Tocotrienols Beta	Tocotrienols Gamma	Tocotrienols Delta	Vitamin E 	Phylloquinones(K1)(Till Milk)
+Retinol	Cholecalciferol	25OHD3	ocopherols Alpha	Tocopherols Beta	Tocopherols Gamma	Tocopherols Delta	Tocotrienols Alpha	Tocotrienols Beta	Tocotrienols Gamma	Tocotrienols Delta	Vitamin E Menaquinones(K2)
+
+Unit::mg=>Tocopherols Alpha	Tocopherols Beta	Tocopherols Gamma	Tocopherols Delta	Tocotrienols Alpha	Tocotrienols Beta	Tocotrienols Gamma	Tocotrienols Delta	Vitamin E 
+micro g=>Ergocalciferol(D2)	Phylloquinones(K1)	Menaquinones(K2)	Retinol	Cholecalciferol	25OHD3
+
+Column names from four.pdf::
+Lutein	Zeaxanthin	Lycopene	Beta Cryptoxanthin	gamma-Carotene	alpha-Carotene	beta-Carotene	Total Carotenoids
+
+Unit::micro g=>Lutein	Zeaxanthin	Lycopene	Beta Cryptoxanthin	gamma-Carotene	alpha-Carotene	beta-Carotene	Total Carotenoids
+
+NOTE::Exist only till eggs.
+
+Column names from five.pdf::
+Aluminium	Arsenic	Cadmium	Calcium	Chromium	Cobalt	Copper	Iron	Lead	Lithium	Magnesium	Manganese	Mercury	Molebdeum	Nickel	Phosphorus	Potassium	Selenium	Sodium	Zinc
+
+Unit:: mg=>Aluminium	Cadmium	Calcium	Chromium	Cobalt	Copper	Iron	Lead	Lithium	Magnesium	Manganese	Molebdeum	Nickel	Phosphorus	Potassium	Sodium	Zinc
+micro g=>Arsenic	Mercury	Selenium
+
+Column Names from six.pdf::
+Total Available CHO 	Total Starch	Fructose	Glucose	Sucrose	Maltose	Total Free Sugars
+
+Unit::g=>Total Available CHO 	Total Starch	Fructose	Glucose	Sucrose	Maltose	Total Free Sugars
+
+NOTE::Only Till Milk
+
+Column names from seven.pdf::
+Capric(C10:0)	Lauric(C12:0)	Myristic(C14:0)	Palmitic(C16:0)	Stearic(C18:0)	Arachidic(C20:0)	Behenic (C22:0)	Lignoceric (C24:0) 	Myristoleic (C14:1) Palmitoleic(C16:1)	Oleic(C18:1n9
+Eicosaenoic (C20:1n9)	Erucic (C22:1n9)	Nervonic (C24:1n9)	Linoleic (C18:2n6)	Eicosadienoic (C20:2)	α -Linolenic (C18:3n3)	Arachidonic (C20:4n6)	Total Saturated fatty Acids(TSFA)	Total Mono Unsaturated Fatty Acids (TMUFA)	Total Poly Unsaturated Fatty Acids (TPUFA) (Till Milk)
+Undecanoic (C11:0)	Lauric (C12:0)	Myristic (C14:0) Pentadecanoic (C15:0)	Palmitic (C16:0)	Stearic (C18:0)	Arachidic (C20:0) Behenic (C22:0)	Lignoceric (C24:0)
+Myristoleic (C14:1)	Palmitoleic (C16:1)	Oleic (C18:1n9)	Eicosaenoic (C20:1n9)	Erucic (C22:1n9)	Nervonic (C24:1n9) Linoleic (C18:2n6)	Eicosadienoic (C20:2)	α -Linolenic (C18:3n3)
+Eicosatrienoic (C20:3n6)	Arachidonic (C20:4n6)	Eicosapentadecanoic (C20:5n3)	Docosahexaenoic (C22:6n3)	Total Saturated Fatty Acids (TSFA) Total Mono Unsaturated Fatty Acids (TMUFA) Total Poly Unsaturated Fatty Acids (TPUFA) Cholesterol (Before Fish)
+Lauric(C12:0)	Myristic(C14:0)	Palmitic(C16:0)	Stearic(C18:0)	Arachidic(C20:0)	Behenic (C22:0)	Lignoceric (C24:0)	Palmitoleic(C16:1)
+Oleic(C18:1n9)	Eicosaenoic (C20:1n9)	Erucic (C22:1n9)	Nervonic (C24:1n9)	Linoleic (C18:2n6)	Eicosadienoic (C20:2)	Docosadienoic (C22:2)	α -Linolenic (C18:3n3)	Eicosatrienoic (C20:3n6)
+Arachidonic (C20:4n6)	Eicosa pentaenoic (C20:5n3)	Docosa pentaenoic (C22:5n3)	Docosa hexaenoic (C22:6n3)	Total Saturated Fatty Acids (TSFA) Total Mono Unsaturated Fatty Acids (TMUFA) Total Poly Unsaturated Fatty Acids (TPUFA) Cholesterol
+
+Unit::mg=>all
+
+Column names from eight.pdf::
+Alanine	Arginine	Aspartic Acids 	Glutamic Acid 	Glycine Proline Serine Tyrosine
+Histidine	Isoleucine	Leucine	Lysine	Methionine	Cystine Phenylalanine	Threonine	Tryptophan Valine
+
+Unit::g=> all
+
+Column names from nine.pdf::
+Oxalate (Total)	Oxalate Soluble	Oxalate Insoluble	Cis-Aconitic Acid 	Citric Acid 	Fumaric Acid 	Mallic Acid 	Quinic Acid 	Succinic Acid Tartaric Acid
+
+Unit::mg=>all.
+
+Column names from ten.pdf::
+3,4-Dihydroxy benzoic Acid 	3-Hydroxy benzaldehyde	Protocatechuic acid 	Vanillic acid 	Gallic acid 	Cinamic acid 	O-Coumaric acid 	P-Coumaric Acid 	Caffeic acid
+Chlorogenic acid 	Ferulic acid 	Apigenin 	Apigenin-6-C-gluoside 	Apigenin-7-O-neohesperidoside	Luteolin 	Kaempferol Quercetin 	Quercetin-3-β-D-glucoside	Quercetin-3-O-rutinoside
+Quercetin-3-β‐galactoside	Isoramnetin	MyricetinResvertrol	Hesperetin Naringenin	Hesperdin Daidzein Genistein	Epicatechin
+Epigallo catechin	Epigallo catechin 3-gallate	(+)-catechin	Gallocatechin gallate 	Syringic acid Sinapinic acid Ellagic acid Total polyphenols
+
+Units::mg=>all
+
+Column names from eleven.pdf::
+Raffinose	Stachyose	Verbascose	Ajugose	Campesterol	Stigmasterol	β-Sitosterol	Phytate	Total Saponin
+
+Units::mg=>Campesterol	Stigmasterol	β-Sitosterol	Phytate
+g=> Rest
+
+Column names from twelve.pdf::
+Butyric (C4:0)	Caproic (C6:0)	Caprylic (C8:0)	Capric (C10:0)	Lauric (C12:0)	Myristic (C14:0)	Palmitic (C16:0)	Stearic (C18:0)	Arachidic (C20:0) Behenic (C22:0) Lignoceric (C24:0)
+Myristoleic (C14:1)	Palmitoleic (C16:1)	Elaidic (C18:1n9t)	Oleic (C18:1n9)	Eicosenoic (C20:1n9)	Erucic (C22:1n9)	Linolenic (C18:2n6) -Linolenic(C18:3n3)	Total Saturated Fatty Acids (TSFA)	Total Mono Unsaturated Fatty Acids (TMUFA)	Unsaturated Fatty Acids (TPUFA)
+
+
