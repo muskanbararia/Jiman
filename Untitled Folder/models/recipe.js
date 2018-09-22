@@ -19,9 +19,5 @@ RecipeSchema
 return '/catalog/recipe/' + this._id;
 });
 
-RecipeSchema
-.virtual('content')
-.get(function(){
-return this.content;
-});
+
 module.exports = mongoose.model('Recipe',RecipeSchema);
