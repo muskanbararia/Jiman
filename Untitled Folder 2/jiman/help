@@ -1,0 +1,8 @@
+1. express <app name>
+cd <app name>
+npm install
+npm install --save-dev nodemon
+update script in package.json
+npm run devstart
+set up app.js for mongoose
+create schema in model
